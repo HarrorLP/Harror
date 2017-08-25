@@ -1,2 +1,0 @@
-# Harror
-a Varo bot
